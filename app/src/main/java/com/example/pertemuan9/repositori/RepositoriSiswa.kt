@@ -1,7 +1,7 @@
-package com.example.Pertemuan9.repositori
+package com.example.pertemuan9.repositori
 
-import com.example.Pertemuan9.room.Siswa
-import com.example.Pertemuan9.room.SiswaDao
+import com.example.pertemuan9.room.Siswa
+import com.example.pertemuan9.room.SiswaDao
 import kotlinx.coroutines.flow.Flow
 
 interface RepositoriSiswa {
